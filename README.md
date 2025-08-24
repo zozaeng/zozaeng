@@ -9,7 +9,7 @@
 
 ---
 
-# 👋 <hello world> 
+# 👋 hello world
 
 💻 **Front-End Developer in progress**  
 🌐 Passionate about **Web Development (HTML, CSS, JavaScript, React)**  
