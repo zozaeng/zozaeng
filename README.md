@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <h1>✨ AZZA MOHAMED ✨</h1>  
-<h3>Front-End Developer | Future Web Pentester</h3>  
+<h3>Mobile Application Developer </h3>  
 
 
 </div>
